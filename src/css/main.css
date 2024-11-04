@@ -112,4 +112,5 @@ label {
 .login-input:focus {
   background-color: #eee;
   border: #000;
+  border-color: #000;
 }
